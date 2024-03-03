@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NameSorter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Jaen\\source\\repos\\unsorted-names-list.txt C:\\Users\\Jaen\\source\\repos\\sorted-names-list.txt"
+    }
+  }
+}
